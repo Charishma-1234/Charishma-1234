@@ -1,7 +1,6 @@
 # Hi, I'm Charishma 👋
 
 🎯 Aspiring Data Analyst | Turning data into business insights  
-📍 Hyderabad, India  
 📊 SQL | Python | Power BI | Excel | Tableau  
 
 ---
