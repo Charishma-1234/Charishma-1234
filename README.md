@@ -42,7 +42,7 @@ I'm a data analyst who enjoys transforming raw data into meaningful insights tha
 - Built real-time KPI dashboard with slicers & automation
 - Reduced manual reporting time by **50%**
 
-🔗 [View Project](#)
+🔗 [View Project](https://github.com/Charishma-1234/OLA_DataAnalyst_End-to-end-Project)
 
 ---
 
@@ -51,7 +51,7 @@ I'm a data analyst who enjoys transforming raw data into meaningful insights tha
 - Identified **13.8% high-risk loans**
 - Automated MTD & MoM KPI tracking
 
-🔗 [View Project](#)
+🔗 [View Project](https://github.com/Charishma-1234/Bank_Loan_Report)
 
 ---
 
@@ -60,14 +60,7 @@ I'm a data analyst who enjoys transforming raw data into meaningful insights tha
 - Enabled targeted marketing strategies
 - Built using Excel + Power Query
 
-🔗 [View Project](#)
-
----
-
-### 🤖 Bankruptcy Prediction System (ML Project)
-- Built hybrid model using **Genetic Algorithms + Neural Networks**
-- Improved prediction using precision, recall & F1-score
-- Focused on SME financial risk analysis
+🔗 [View Project](https://github.com/Charishma-1234/Customer_Segmentation_Dashboard)
 
 ---
 
